@@ -5,8 +5,8 @@ import { CartProvider } from './components/CartContext/CartContext';
 import HomePage from './pages/HomePage';
 import CartPage from './pages/CartPage/CartPage';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
-import LoginPage from './pages/Login'; // Import LoginPage
-import AdminPage from './pages/AdminPage'; // Import AdminPage
+import LoginPage from './pages/Login/Login'; // Import LoginPage
+import AdminPage from './pages/AdminPage/AdminPage'; // Import AdminPage
 import Menu from './components/Menu/Menu';
 import Footer from './components/Footer/Footer';
 
